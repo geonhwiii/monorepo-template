@@ -1,0 +1,9 @@
+{
+  "name": "@monorepo/common",
+  "version": "1.0.0",
+  "description": "monorepo common",
+  "packageManager": "yarn@3.3.0",
+  "main": "index.ts",
+  "author": "dan",
+  "license": "ISC"
+}
